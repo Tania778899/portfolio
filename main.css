@@ -70,7 +70,7 @@ h3 {
     color: #fff704;
 }
 .section-full {
-    background-image: url("/resourses/sun.png");
+    background-image: url('/resourses/sun.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
@@ -296,4 +296,5 @@ h3 {
     color: #000000;
     opacity: 0.5;
     font-style: italic;
+
 }
